@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlgamoneyApiApplication",
+            "request": "launch",
+            "mainClass": "com.example.algamoney.api.AlgamoneyApiApplication",
+            "projectName": "algamoney-api"
+        }
+    ]
+}
